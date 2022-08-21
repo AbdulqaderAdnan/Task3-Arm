@@ -2,10 +2,10 @@ AI-Task3-arm
 -------------------------------------------------------------
 after installing ROS successfully next is installing the arm package. Following the instruction in this link.
 
-Starting from this step "mkdir -p ~/catkin_ws/src" https://s-m.com.sa/ros.txt 
+https://s-m.com.sa/ros.txt 
 and changing the version form kinetic to noetic
 
-
+Starting from this step "mkdir -p ~/catkin_ws/src"
 
 The steps; 
 ----------------------------------------------
